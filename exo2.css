@@ -1,0 +1,9 @@
+.true {
+    border-style: solid;
+    border-color: green;
+}
+
+.false {
+    border-style: solid;
+    border-color: red;
+}
